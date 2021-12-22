@@ -41,6 +41,12 @@ body {
   text-align:center;
   margin-top: 40px;
 }
+#mani {
+  background: #d9ffcc;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
 
 #componentes {
   background: #d9ffcc;
